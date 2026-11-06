@@ -1,11 +1,11 @@
-# YouTube sans putaclic
+# YouTube sans clickbait
 
 Une extension Chrome qui change deux choses sur YouTube :
 
 - **Les miniatures :** à la place de la miniature choisie par le créateur, tu vois une image prise au milieu de la vidéo.
 - **Les recommandations :** l'accueil et les suggestions de droite sont remplacés par des vidéos que des développeurs se recommandent sur Hacker News depuis près de 20 ans.
 
-C'est l'extension de la vidéo Code Simple « YouTube sans putaclic ». Elle a été faite avec Claude Code à partir des données de [HackerTube](https://hackertube.org), le projet d'Andrej Karpathy.
+C'est l'extension de la vidéo Code Simple « YouTube sans clickbait ». Elle a été faite avec Claude Code à partir des données de [HackerTube](https://hackertube.org), le projet d'Andrej Karpathy.
 
 ![L'accueil de YouTube avec l'extension](docs/accueil.jpg)
 

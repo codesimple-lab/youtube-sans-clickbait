@@ -1,4 +1,4 @@
-// YouTube sans putaclic : miniatures prises au milieu de la vidéo, et accueil + « à suivre »
+// YouTube sans clickbait : miniatures prises au milieu de la vidéo, et accueil + « à suivre »
 // remplacés par les vidéos que Hacker News se recommande depuis 20 ans (données HackerTube).
 
 const settings = { thumbs: true, feed: true };

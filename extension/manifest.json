@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "YouTube sans putaclic",
+  "name": "YouTube sans clickbait",
   "version": "0.1.0",
   "description": "Miniatures prises au milieu de la vidéo et recommandations venues de 20 ans de Hacker News (données HackerTube, ODC-By 1.0).",
   "permissions": ["storage"],

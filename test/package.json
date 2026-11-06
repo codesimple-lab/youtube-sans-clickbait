@@ -1,5 +1,5 @@
 {
-  "name": "youtube-sans-putaclic-test",
+  "name": "youtube-sans-clickbait-test",
   "private": true,
   "type": "module",
   "scripts": { "test": "node test.mjs" },
