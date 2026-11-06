@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube sans putaclic",
+  "version": "0.1.0",
+  "description": "Miniatures prises au milieu de la vidéo et recommandations venues de 20 ans de Hacker News (données HackerTube, ODC-By 1.0).",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"],
+      "css": ["content.css"],
+      "run_at": "document_start"
+    }
+  ],
+  "web_accessible_resources": [
+    { "resources": ["data/*.json"], "matches": ["https://www.youtube.com/*"] }
+  ]
+}
