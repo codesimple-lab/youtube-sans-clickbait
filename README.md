@@ -36,7 +36,7 @@ Tes réglages et les vidéos déjà vues restent dans ton navigateur. L'extensio
 2. Ouvre Claude Code dans ce dossier.
 3. Donne-lui cette demande :
 
-> Lis DATA.md dans ce dossier. Crée-moi une extension Chrome pour YouTube. Elle remplace l'accueil par ces vidéos, avec des filtres par type et par thème. Elle affiche partout l'image du milieu de la vidéo au lieu de la miniature, avec un bouton pour revenir aux originales. Et sur une vidéo, elle remplace les suggestions de droite par des vidéos proches de la liste.
+> Lis DATA.md dans ce dossier. Crée-moi une extension Chrome pour YouTube. Elle remplace l'accueil par ces vidéos, avec des filtres par type et par thème. Elle affiche partout l'image du milieu de la vidéo au lieu de la miniature, avec un bouton pour revenir aux originales. Et sur une vidéo, elle remplace les suggestions de droite par des vidéos proches de la liste. Sur une vidéo de la liste, elle affiche combien de personnes l'ont recommandée et un de leurs commentaires.
 
 ## Comment c'est fait
 
